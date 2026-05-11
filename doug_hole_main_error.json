@@ -1,0 +1,9 @@
+{
+  "source": {
+    "id": "doug_hole_main",
+    "title": "Doug-hole Wiki Main Page",
+    "url": "https://dougdoug.fandom.com/wiki/DougDoug",
+    "kind": "web"
+  },
+  "error": "403 Client Error: Forbidden for url: https://dougdoug.fandom.com/wiki/DougDoug"
+}

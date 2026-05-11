@@ -1,0 +1,46 @@
+{
+  "sources": [
+    {
+      "id": "official_site",
+      "title": "DougDoug Official Website",
+      "url": "https://www.dougdoug.com/",
+      "kind": "web"
+    },
+    {
+      "id": "wikipedia",
+      "title": "DougDoug Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/DougDoug",
+      "kind": "web"
+    },
+    {
+      "id": "wikitubia",
+      "title": "DougDoug Wikitubia",
+      "url": "https://youtube.fandom.com/wiki/DougDoug",
+      "kind": "web"
+    },
+    {
+      "id": "doug_hole_main",
+      "title": "Doug-hole Wiki Main Page",
+      "url": "https://dougdoug.fandom.com/wiki/DougDoug",
+      "kind": "web"
+    },
+    {
+      "id": "doug_hole_episodes",
+      "title": "Doug-hole Episode List",
+      "url": "https://dougdoug.fandom.com/wiki/All_DougDoug_Episodes",
+      "kind": "web"
+    },
+    {
+      "id": "dougdoug_channel_subs",
+      "title": "DougDoug Channel Subtitles",
+      "url": "https://www.youtube.com/@DougDoug",
+      "kind": "youtube_subtitles"
+    },
+    {
+      "id": "dougdougdoug_channel_subs",
+      "title": "DougDougDoug Channel Subtitles",
+      "url": "https://www.youtube.com/@DougDougDoug",
+      "kind": "youtube_subtitles"
+    }
+  ]
+}

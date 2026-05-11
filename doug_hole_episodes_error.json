@@ -1,0 +1,9 @@
+{
+  "source": {
+    "id": "doug_hole_episodes",
+    "title": "Doug-hole Episode List",
+    "url": "https://dougdoug.fandom.com/wiki/All_DougDoug_Episodes",
+    "kind": "web"
+  },
+  "error": "403 Client Error: Forbidden for url: https://dougdoug.fandom.com/wiki/All_DougDoug_Episodes"
+}
